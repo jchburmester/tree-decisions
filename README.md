@@ -8,4 +8,4 @@ The first work will be carried out in the Google Colab Notebook, that can be fou
 The notebook includes scripts for data loading, preprocessing, analysis, and prototype sub-model development, with the goal of future integration into a head-model.
 
 ## Dependencies and Version Control
-Initially, standard Python packages are used. Version control and dependency pinning will evolve depending on the methods applied during analysis and model development. Updates will be documented and managed via the ènv.yml` file in this repository.
+Initially, standard Python packages are used. Version control and dependency pinning will evolve depending on the methods applied during analysis and model development. Updates will be documented and managed via the `ènv.yml` file in this repository.
